@@ -36,7 +36,7 @@ export default function RootLayout({
           <NavLinks />
         </header>
         <main>{ children }</main>
-        <footer className="footer footer-center bg-base-200 text-base-content rounded p-6">
+        <footer className="footer footer-center bg-base-200 text-base-content">
           <Footer />
         </footer>
       </body>
