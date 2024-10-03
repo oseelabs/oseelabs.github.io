@@ -120,7 +120,7 @@ const Footer = () => {
                                 className="space-y-4 text-gray-300"
                                 key={idx}
                             >
-                                <h4 className="text-gray-200 font-semibold sm:pb-2">
+                                <h4 className="text-gray-200 font-semibold sm:pb-2 footer-title">
                                     {item.label}
                                 </h4>
                                 {
